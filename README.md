@@ -199,20 +199,26 @@ The uses of Washerman's Lake in Ariyalur District are
 ```
 
 ## Output:
-![Output](./screenshots/output01.png)
+![output01](https://github.com/AkshayalakshmiVS/places-around-me/assets/128115963/2c32f3fa-30e8-42a8-b209-6e1e87b021e0)
 
-![Output](./screenshots/bus.png)
+![bus](https://github.com/AkshayalakshmiVS/places-around-me/assets/128115963/3f2909c7-7879-4861-9473-06c463df64de)
 
-![Output](./screenshots/ghs.png)
+![ghs](https://github.com/AkshayalakshmiVS/places-around-me/assets/128115963/44d7292b-fbf7-486f-9d10-9ee2684a74ef)
 
-![Output](./screenshots/park.png)
+![park](https://github.com/AkshayalakshmiVS/places-around-me/assets/128115963/ebeebe38-da7e-44f0-8edb-6144e82e417e)
 
-![Output](./screenshots/rto.png)
 
-![Output](./screenshots/vk.png)
+![rto](https://github.com/AkshayalakshmiVS/places-around-me/assets/128115963/25f5b289-3e34-4fb3-aaf8-0cddc6e90176)
+
+
+![vk](https://github.com/AkshayalakshmiVS/places-around-me/assets/128115963/021386e1-b0d6-4d31-9b30-37bcb805ba15)
+
 
 ## HTML Validator
-![HTML Validator](./screenshots/valid5.png)
+
+![valid5](https://github.com/AkshayalakshmiVS/places-around-me/assets/128115963/2e687b4f-fa29-4ea2-86f2-b2faeba71a30)
+
+
 
 ## Result:
 The program for implementing image map is executed successfully
